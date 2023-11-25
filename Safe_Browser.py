@@ -1,3 +1,5 @@
+#Safe Browser V1
+
 import sys
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
